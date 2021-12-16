@@ -1,7 +1,7 @@
 ## Python-Internals
 This repository contains a solution for Assignment2 in Software System Design course for ROCV master's program at Innopolis University. Tasks discription can be found [Here](https://hackmd.io/@gFZmdMTOQxGFHEFqqU8pMQ/BJMsNk3Au/).
 
-Test files src1.py,src2.py,src3.py are attached.
+Test files src1.py, src2.py, src3.py are attached.
 
 ---
 ### Table of Content 
@@ -15,6 +15,7 @@ Test files src1.py,src2.py,src3.py are attached.
 |
 └── Readme.md
 ```
+
 ### Libraries Installation
 sys
 timeit
@@ -50,6 +51,6 @@ python3 bc.py compare -py src1.py -py src2.py -py src3.py -py src1.py -py src2.p
 
 *files.py and files.pyc must be in the same directory. if file.pyc is in __pycashe__/ , it has to be moved to the current path.
 
-In task5, please use N arbitray number of file as a test case. [It can compare more than 3 files].
+*In task5, please use N arbitray number of file as a test case. [It can compare more than 3 files].
 Also, ordering to peak, – truncate have been taken into consideration
 
