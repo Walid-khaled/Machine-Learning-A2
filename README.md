@@ -14,10 +14,11 @@ Test files src1.py,src2.py,src3.py are attached.
 ### Launch
 To run each file:
 open cmd in the same directory and use the commands attached below for testing:
+
 task1: 
 python3 compare.py src1.py src2.py src3.py
 
-task 2:
+task2:
 python3 bc.py print -py src1.py src2.py src3.py
 
 task3:
