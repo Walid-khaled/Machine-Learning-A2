@@ -1,4 +1,6 @@
 ## Python-Internals
+This repository contains a solution for Assignment2 in Software System Design course for ROCV master's program at Innopolis University. Tasks discription can be found [Here](https://hackmd.io/@gFZmdMTOQxGFHEFqqU8pMQ/BJMsNk3Au/).
+
 This folder contains two files for the assignment created by Walid Shaker:
 compare.py for task 1. 
 bc.py for task 2,3,4,5.
@@ -8,6 +10,8 @@ Also, ordering to peak, – truncate have been taken into consideration
 
 Test files src1.py,src2.py,src3.py are attached.
 
+---
+### Launch
 To run each file:
 open cmd in the same directory and use the commands attached below for testing:
 task1: 
