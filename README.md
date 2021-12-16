@@ -1,5 +1,5 @@
 ## Python-Internals
-This repository contains an implementation for bytecode compiling and interpreting for different source files. It is a solution for Assignment2 in Software System Design course for ROCV master's program at Innopolis University. Tasks description can be found [Here](https://hackmd.io/@gFZmdMTOQxGFHEFqqU8pMQ/BJMsNk3Au/).
+This repository contains an implementation for bytecode compiling and interpreting for different source files. It is a solution for Assignment2 in Software System Design course for ROCV master's program at Innopolis University. Tasks description can be found [here](https://hackmd.io/@gFZmdMTOQxGFHEFqqU8pMQ/BJMsNk3Au/).
 
 Test files src1.py, src2.py, src3.py are attached.
 
